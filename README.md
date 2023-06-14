@@ -17,4 +17,12 @@
 	- Utilisation de boucles (while, for,..)
 	- Utilisation de Tableau à une dimension
 
+3. Exercice du pendu avec : 
+	- Première étape du pendu avec boucle **uniquement**
+	- Deuxieme étape avec incrémentation d'une **fonction**
+	- Troisieme étape avec 
+		- compteur de nombre de tentatives
+		- Information donner si lettre non présente/nbre de fois présente
+
+
 *Notes effectuées avec l'éditeur de texte VIM sous LINUX..*
