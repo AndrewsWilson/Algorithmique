@@ -22,7 +22,11 @@
 	- Deuxieme étape avec incrémentation d'une **fonction**
 	- Troisieme étape avec 
 		- compteur de nombre de tentatives
-		- Information donner si lettre non présente/nbre de fois présente
+		- Information donner si lettre non présente/nbre de fois présente	
+	- **MAJ pendu :** 
+	- Ajout de plusieurs fonction : 
+		- Fonction récupération de mot dans un fichier .txt externe, stocker dans un tableau, puis selection d'un des mot du tableau et stockage de chaques lettre dans un tableau en char.
+		- Fonction qui initialise le tableau qui stockera les saisies de l'utilisateur, en appelant une autre fonction pour définir la taille du tableau 
 
 
 *Notes effectuées avec l'éditeur de texte VIM sous LINUX..*
