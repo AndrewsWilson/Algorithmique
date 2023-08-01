@@ -28,5 +28,11 @@
 		- Fonction récupération de mot dans un fichier .txt externe, stocker dans un tableau, puis selection d'un des mot du tableau et stockage de chaques lettre dans un tableau en char.
 		- Fonction qui initialise le tableau qui stockera les saisies de l'utilisateur, en appelant une autre fonction pour définir la taille du tableau
 
+4. Exercices alternatifs
+	- Différents éxercices effectués afin de pratiquer l'utilisation des fonctions
+
+5. Exercice du démineur (Algo avancé)
+	- Mise en place d'un programme sous forme d'architecture à un point d'entré
+	- Utilisation de différentes fonctions appeller les une dans les autres
 
 *Notes effectuées avec l'éditeur de texte VIM sous LINUX..*
